@@ -4,7 +4,7 @@
 This project implements a creditworthiness classification system for business partners using LangGraph , Groq LLMs for intelligent validation and monitoring, and Random Forest as the classifier. 
 The workflow automates data preprocessing, quality validation, model inference, monitoring for drift, and retraining decisions, with human-in-the-loop AI agent oversight to ensure correctness and compliance.
 
-***The working file is a jupyter notebook is developed and executed in Kaggle (www.kaggle.com) . Recommend the same while testing 
+***The working file is a jupyter notebook developed and executed in Kaggle (www.kaggle.com) . Recommend the same while testing 
 If running locally Input file path changes are needed.***
 
 ## Crucial Steps and Agents
